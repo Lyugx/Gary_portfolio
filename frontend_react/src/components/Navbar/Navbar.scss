@@ -15,10 +15,10 @@
     
     .app__navbar-logo {
         display: flex;
-        justify-content: flex-start;
+        justify-content: flex-end;
         align-items: center;
         img {
-            width: 90px;
+            width: 135px;
             height: 20px;
             @media screen and (min-width: 2000px) {
                 width: 180px;
