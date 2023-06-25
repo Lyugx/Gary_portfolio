@@ -1,6 +1,6 @@
 #home {
   position: relative;
-  background: url("../../assets/bgIMG.png");
+  background: url('../../assets/bgIMG.png');
   background-size: cover;
   background-position: center;
   background-repeat: repeat;
@@ -163,20 +163,20 @@
 }
 
 .app__header-img img {
-  width: 84%;
-  height: 91%;
+  width: 87%;
+  height: 93%;
   object-fit: contain;
   z-index: 1;
-  margin-bottom: 50px;
+  margin-bottom: 40px;
 }
 
 .app__header-img .overlay_circle {
   position: absolute;
-  left: 110px;
+  left: 70px;
   right: 0px;
   bottom: 19px;
   z-index: 0;
-  width: 87%;
+  width: 55%;
   height: 85%;
   top: 50px;
 }
